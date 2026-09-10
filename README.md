@@ -113,9 +113,16 @@ requires no Python installation. The host's model and tool usage may have costs.
 ## Tools and limits
 
 The default complete-diagram path uses the host's built-in image generation.
-Explicit requests for editable native figures take precedence. If a required
-tool is unavailable, the agent must say what remains unfinished instead of
-silently changing providers or claiming a finished image.
+You can also request an **editable companion** while keeping the generated
+master. Text, modules and connections are reconstructed or converted afterward;
+generated icons may remain movable raster images. The agent must test the
+declared edits and disclose appearance differences, not claim recovered image
+layers. An explicit native-only request takes precedence. If a required tool is
+unavailable, the agent must report what remains unfinished.
+
+Keep legends small and readable, and retain meaningful filled colored icons on
+key concepts when requested, including precise scientific workflows. A correct
+graph and an editable file do not by themselves establish acceptable design.
 
 Generated images can contain incorrect text or connections. Full-image edits
 can also alter regions that were supposed to stay fixed. Inspect every selected

@@ -8,6 +8,8 @@ Add each icon's functional subparts and colors to that registry, with named coun
 
 Use the same navigation map in the same location in each detail view, with an identically ordered in-image role legend. Reserve a stable expansion area. A navy current-stage outline is the default focus cue; inactive stages retain their category colors and readable labels. Preserve recognizable colored icon parts in the expansion. Explicit “Future extension” or “Case ends here” describes scope independently; do not desaturate colors needed for category decoding.
 
+Keep the legend's proportion subordinate as well as its meaning stable. When a master needs an editable companion, retain stage IDs, icon identities, object names and attached connectors in that companion. After a layout change, check both the master and affected detail views; linked names or positions do not synchronize automatically unless the actual file mechanism supports and passes that test. See [editable-companions](editable-companions.md).
+
 One page can highlight a group only if its internal relationships remain legible. When several stages each have their own checks and branches, give each stage a detail view. A taxonomy or architecture may instead reveal layers; do not manufacture stage numbering.
 
 For imagegen-only output, generate and inspect the overview first, then an initial detail view. Use the accepted detail layout as the reference for subsequent peers and carry the exact stage registry into every prompt. Prevent position drift with the same canvas regions and named anchor objects. Small pixel differences are expected; swapped positions, changed names or arrows are not.

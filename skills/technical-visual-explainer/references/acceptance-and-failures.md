@@ -10,6 +10,10 @@ For a family, additionally compare stable navigation labels/order/positions, foc
 
 When filled colored icons are requested, inspect the actual internal color areas, not just card borders or a prompt saying “colorful”. Pick recurring objects and trace their category, silhouette and colored parts from overview to detail. Verify each standalone image includes the legend needed to decode it. Examine consecutive views at the intended screen size, including the least-emphasized stage and longest label. A screen test observes layout and navigation, not audience understanding.
 
+Judge the legend in relation to the whole composition: it must decode the main diagram without competing with it. Check the icon brief separately from topology. Correct arrows do not compensate for missing requested icons, and a successful editing test does not establish acceptable design.
+
+For requested editable companions, additionally follow [editable-companions](editable-companions.md). Verify actual editable object types, endpoint identities and connection sites; edit, save, reopen and inspect the resulting routes. Report independent labels, raster-only icons, unsynchronized aliases and untested editors explicitly.
+
 ## Failure record from AutoResearchAgent
 
 | Observed problem | Prevention / acceptance question |
@@ -29,6 +33,12 @@ When filled colored icons are requested, inspect the actual internal color areas
 | A repeated module changed category because of its column or icon choice | Trace recurring semantic objects and distinguish operation, information and verdict |
 | Repeated full generation changed stage names and layouts | Edit with accepted references and an exact shared registry |
 | Token tests passed while arrows remained wrong | Keep text smoke checks separate from image evidence |
+
+## Negative development example: flood–household coupling
+
+A coupled flood/household redesign preserved the checked decision branches and produced a working editable companion, but the user rejected its visual design: the legend was oversized and meaningful colored icons had been removed. Treat it as a failed example for that brief, not an approved style reference. This does not erase the narrower editing-test evidence.
+
+The correction is to retain colored icons on key physical/behavioral concepts, keep a small readable legend, and preserve equations, conditional routes and model boundaries. A large feedback mapping must not be confused with a legend. If named mappings replace connected feedback lines, disclose the representational change and verify each origin/recipient; never imply aliases are automatically synchronized. A legend showing colored arrows must match the actual arrows. Missing scientific notation blocks an exact publication replacement even when a simplified demonstration is usable.
 
 ## Behavioral tests
 
