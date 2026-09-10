@@ -1,0 +1,61 @@
+[
+  {
+    "file": "docs/design/originals/readme-en.png",
+    "sha256": "bb7b677a386f8656035cfdf0014729828193fc7b889023f4acbcefdb3519754f",
+    "pixels": [
+      1774,
+      887
+    ],
+    "tool": "image_gen.imagegen",
+    "model": null,
+    "selected": true,
+    "prompt": "docs/design/prompts/readme-en.txt",
+    "references": []
+  },
+  {
+    "file": "docs/design/originals/readme-zh-TW-initial.png",
+    "sha256": "fb61d67cb5483b0962cec6c3a693668f0c618c2d97d7174b99734ad58199fbd8",
+    "pixels": [
+      1774,
+      887
+    ],
+    "tool": "image_gen.imagegen",
+    "model": null,
+    "selected": false,
+    "prompt": "docs/design/prompts/readme-zh-TW.txt",
+    "references": [
+      "docs/design/originals/readme-en.png"
+    ],
+    "finding": "English brand typography crowded the left column; targeted edit reduced its size and weight."
+  },
+  {
+    "file": "docs/design/originals/social-preview.png",
+    "sha256": "cec3987ed926898afd796aacf4c993aab72e66ca13b724d4b70890ac81113b25",
+    "pixels": [
+      1774,
+      887
+    ],
+    "tool": "image_gen.imagegen",
+    "model": null,
+    "selected": true,
+    "prompt": "docs/design/prompts/social-preview.txt",
+    "references": [
+      "docs/design/originals/readme-en.png"
+    ]
+  },
+  {
+    "file": "docs/design/originals/readme-zh-TW.png",
+    "sha256": "6ea5eeaf12d51e34f0c7f1af2efe5ab781251a33a6566f98392870a507bb90e8",
+    "pixels": [
+      1774,
+      887
+    ],
+    "tool": "image_gen.imagegen",
+    "model": null,
+    "selected": true,
+    "prompt": "docs/design/prompts/readme-zh-TW-fix.txt",
+    "references": [
+      "docs/design/originals/readme-zh-TW-initial.png"
+    ]
+  }
+]

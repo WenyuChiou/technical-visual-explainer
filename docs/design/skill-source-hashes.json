@@ -1,0 +1,42 @@
+[
+  {
+    "file": "SKILL.md",
+    "sha256": "942ac6ed1bb94de9a494888348273ba94d170d2e6a0bcbd744631943868b0fe8"
+  },
+  {
+    "file": "agents/openai.yaml",
+    "sha256": "a94372d3230e19e24dab7393d1c82a1dba22fc7c6ff44deb1ddd62b7a4d13593"
+  },
+  {
+    "file": "evals/cases.md",
+    "sha256": "5128a1fbaa0d79069e9aa298f9b9ff3f1eb5d24783626429c3eb0febc86f7f0a"
+  },
+  {
+    "file": "evals/test_graph.py",
+    "sha256": "7c0cf421e13f0000e3ced3845fb7fa6563bb9f66984bf1bc2bb9540c8aaa8511"
+  },
+  {
+    "file": "references/acceptance-and-failures.md",
+    "sha256": "d63ac7e7d61eb3ec8c9f3004a22fd14a1c728fc621ca6d13f59f92ca266f3140"
+  },
+  {
+    "file": "references/hydrocnhs.md",
+    "sha256": "14bce9c8fea97a82d92e3c9e003813e2cad46e667789774d23303103d3f32fe3"
+  },
+  {
+    "file": "references/intake-and-patterns.md",
+    "sha256": "af890a32ccb69a2e4ef0f944981f13cec066e63e828ce6b5774dd0a7c8f02272"
+  },
+  {
+    "file": "references/progressive-views.md",
+    "sha256": "7d0816317526cbda52eee147c0502ee1bf2c6e974224c9539057afc515708186"
+  },
+  {
+    "file": "references/visual-grammar.md",
+    "sha256": "f924bd3f1efe67dbaad7d7c09f935f8009238c93825887c8872731e67450d5ed"
+  },
+  {
+    "file": "scripts/check_graph.py",
+    "sha256": "c4b18276fe780676389713b79451a9e4904d6879d46bc25977fec5362f96355a"
+  }
+]

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Technical Visual Explainer"
+  short_description: "Clear diagrams with coherent overview-to-detail views"
+  default_prompt: "Use $technical-visual-explainer to turn this topic into a clear diagram or progressive visual explanation, using the references and asking only for missing key choices."
+policy:
+  allow_implicit_invocation: true
