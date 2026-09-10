@@ -68,7 +68,7 @@ Correct the observed defect with a targeted edit. If the desired symbol/style al
 
 ## Verify and hand off
 
-For editable delivery, read [editable-companions](references/editable-companions.md). State which text, icons, modules and connectors can be edited, then test a representative modification in the target editor. A whole-page PNG in a PPTX is a reference image, not an editable workflow. Preserve the generated master and disclose reconstruction differences.
+For editable delivery, read [editable-companions](references/editable-companions.md). Preserve the generated master's visual design unless redesign is requested. Compare the rendered companion with that unchanged master for frames, separators, typography and layout, separately from testing actual edits. A whole-page PNG in a PPTX is a reference image, not an editable workflow. State editable object types and any remaining reconstruction differences.
 
 Use [acceptance-and-failures](references/acceptance-and-failures.md). Separate graph/spec checks, actual-image review, and audience feedback. Text matching and package validation cannot prove arrow correctness or comprehension.
 

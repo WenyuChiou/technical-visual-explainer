@@ -12,7 +12,7 @@ When filled colored icons are requested, inspect the actual internal color areas
 
 Judge the legend in relation to the whole composition: it must decode the main diagram without competing with it. Check the icon brief separately from topology. Correct arrows do not compensate for missing requested icons, and a successful editing test does not establish acceptable design.
 
-For requested editable companions, additionally follow [editable-companions](editable-companions.md). Verify actual editable object types, endpoint identities and connection sites; edit, save, reopen and inspect the resulting routes. Report independent labels, raster-only icons, unsynchronized aliases and untested editors explicitly.
+For requested editable companions, additionally follow [editable-companions](editable-companions.md). Compare the target-editor baseline with the unchanged master at matching dimensions, including outer frames, separators, typography and spacing. Separately verify actual editable object types, endpoint identities and connection sites; edit, save, reopen and inspect the resulting routes. Report specific visual differences, independent labels, raster-only icons, unsynchronized aliases and untested editors explicitly.
 
 ## Failure record from AutoResearchAgent
 
@@ -33,6 +33,7 @@ For requested editable companions, additionally follow [editable-companions](edi
 | A repeated module changed category because of its column or icon choice | Trace recurring semantic objects and distinguish operation, information and verdict |
 | Repeated full generation changed stage names and layouts | Edit with accepted references and an exact shared registry |
 | Token tests passed while arrows remained wrong | Keep text smoke checks separate from image evidence |
+| A stage PPTX passed editing tests but dropped the legend frame/dividers and changed fonts and spacing | Compare the rendered baseline against the unchanged master; editing success does not establish appearance fidelity |
 
 ## Negative development example: flood–household coupling
 
