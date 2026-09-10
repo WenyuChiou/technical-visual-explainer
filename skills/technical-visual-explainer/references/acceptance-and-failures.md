@@ -8,9 +8,9 @@
 
 For a family, additionally compare stable navigation labels/order/positions, focus versus implementation status, recurring icons and boundary meaning. A contact sheet is useful for continuity but does not replace inspecting individual pages.
 
-When filled colored icons are requested, inspect the actual internal color areas, not just card borders or a prompt saying “colorful”. Pick recurring objects and trace their category, silhouette and colored parts from overview to detail. Verify each standalone image includes the legend needed to decode it. Examine consecutive views at the intended screen size, including the least-emphasized stage and longest label. A screen test observes layout and navigation, not audience understanding.
+When filled colored icons are requested, inspect the actual internal color areas, not just card borders or a prompt saying “colorful”. Pick recurring objects and trace their category, silhouette and colored parts from overview to detail. Verify each standalone image is interpretable through its labels and local keys; require a legend only for necessary encodings left unexplained. Examine consecutive views at the intended screen size, including the least-emphasized stage and longest label. A screen test observes layout and navigation, not audience understanding.
 
-Judge the legend in relation to the whole composition: it must decode the main diagram without competing with it. Check the icon brief separately from topology. Correct arrows do not compensate for missing requested icons, and a successful editing test does not establish acceptable design.
+Check visible text separately from topology: overview and detail should contain functional labels, short checks/conditions and essential status, with narration in notes or an external caption. Find and remove repeated scope sentences and takeaways that merely describe the arrows. Then judge whether a legend is needed at all; if needed, inspect its area, contrast and prominence at delivery size. It must not compete with the main diagram. Correct arrows do not compensate for missing requested icons or excessive prose, and a successful editing test does not establish acceptable design.
 
 For requested editable companions, additionally follow [editable-companions](editable-companions.md). Compare the target-editor baseline with the unchanged master at matching dimensions, including outer frames, separators, typography and spacing. Separately verify actual editable object types, endpoint identities and connection sites; edit, save, reopen and inspect the resulting routes. Report specific visual differences, independent labels, raster-only icons, unsynchronized aliases and untested editors explicitly.
 
@@ -28,7 +28,9 @@ For requested editable companions, additionally follow [editable-companions](edi
 | “Accepted paper” could imply external publication | Use “Reviewed draft” or explicitly internal acceptance when intended |
 | Color encoded roles, stages and future state inconsistently | Separate role, focus and implementation status |
 | Removing gradients accidentally forced hollow single-color outlines | Keep flat filled color areas; remove only the unwanted lighting effect |
-| Category colors were explained only in chat while exported images had no legend | Include a compact stable role legend in independently used images |
+| Necessary color/line meaning was explained only in chat | Make the image self-contained with labels or a minimal key; a full legend is optional |
+| Detail views contained “Stage 3 decides…” and long “Future extension…” explanations | Move narration to notes; retain actual operations and one necessary short scope label |
+| A prominent repeated legend occupied space despite self-explanatory labels | Omit the redundant legend; keep the semantic palette and necessary local keys |
 | An entire stage was assigned one color although its detail contained several roles | Neutral stage container; meaningful colored subparts and stable stage ID/name |
 | A repeated module changed category because of its column or icon choice | Trace recurring semantic objects and distinguish operation, information and verdict |
 | Repeated full generation changed stage names and layouts | Edit with accepted references and an exact shared registry |

@@ -19,5 +19,7 @@ Additional reuse probes after actual color/correspondence feedback:
 - A physical coupling figure where blue already means water next to a tool/agent figure with a different palette convention.
 - Grayscale/printed reuse of category colors and pass/revise/human branches.
 - Asynchronous approval of versioned documents where a decision on an old version must not approve the revised one.
+- A labeled planning/execution detail slide with an explanatory takeaway under the loop and a full-width color legend; simplify it for projection while preserving all branches and its future status.
+- A standalone coupled-system diagram with one otherwise unexplained dashed feedback line and a meaningful scientific scale; simplify text and legend treatment without losing the meanings needed to read it.
 
 Preserve actual responses. Test the local diagram decisions, not a newly invented universal workflow requirement; no prewritten response counts as evidence.
